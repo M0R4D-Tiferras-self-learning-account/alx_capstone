@@ -1,7 +1,6 @@
-# Simple Quiz App 🎯
+# Simple Quiz App
 
-A simple web-based quiz game built with **Django** (Python).
-Users can answer multiple-choice questions and see their score at the end. Very Simple with poor UI and without authentications.
+## A simple web-based quiz game built with **Django** (Python). Users can answer multiple-choice questions and see their score at the end. Very Simple with poor UI and without authentications.
 
 ---
 
