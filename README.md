@@ -1,15 +1,15 @@
 # Simple Quiz App 🎯
 
-A simple web-based quiz game built with **Flask** (Python) and **MySQL**.
-Users can answer multiple-choice questions and see their score at the end.
+A simple web-based quiz game built with **Django** (Python).
+Users can answer multiple-choice questions and see their score at the end. Very Simple with poor UI and without authentications.
 
 ---
 
 ## Features
 - Multiple-choice quiz questions
 - Score calculation at the end
-- Questions and answers stored in a MySQL database
-- Simple and clean HTML/CSS frontend
+- Questions and answers stored in a Dictionaries
+- Simple and clean HTML frontend
 
 ---
 
